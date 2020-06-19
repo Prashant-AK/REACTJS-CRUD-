@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Prashant Singh",
+      "username": "AK",
+      "email": "ak@gmail.com",
+      "phone": "1234567890",
+      "city": "Bareilly",
+      "website": "ak.org.in",
+      "id": 1
+    },
+    {
+      "name": "Anand",
+      "username": "steve",
+      "email": "steve@gmail.com",
+      "phone": "1234567890",
+      "city": "Bareilly",
+      "website": "steve.org.in",
+      "id": 2
+    },
+    {
+      "name": "Arpit Singh",
+      "username": "Don",
+      "email": "doncop59@gmail.com",
+      "phone": "1234567890",
+      "city": "Bareilly",
+      "website": "don.com",
+      "id": 3
+    }
+  ]
+}
