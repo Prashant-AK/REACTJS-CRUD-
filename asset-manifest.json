@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/REACTJS-CRUD-/static/css/main.8440b4f4.chunk.css",
+    "main.js": "/REACTJS-CRUD-/static/js/main.7d8f1643.chunk.js",
+    "main.js.map": "/REACTJS-CRUD-/static/js/main.7d8f1643.chunk.js.map",
+    "runtime-main.js": "/REACTJS-CRUD-/static/js/runtime-main.7a26fab6.js",
+    "runtime-main.js.map": "/REACTJS-CRUD-/static/js/runtime-main.7a26fab6.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/REACTJS-CRUD-/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7d358a26.chunk.js": "/REACTJS-CRUD-/static/js/2.7d358a26.chunk.js",
+    "static/js/2.7d358a26.chunk.js.map": "/REACTJS-CRUD-/static/js/2.7d358a26.chunk.js.map",
+    "index.html": "/REACTJS-CRUD-/index.html",
+    "precache-manifest.95f376c5ca83372371d0b4900503e7a0.js": "/REACTJS-CRUD-/precache-manifest.95f376c5ca83372371d0b4900503e7a0.js",
+    "service-worker.js": "/REACTJS-CRUD-/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/REACTJS-CRUD-/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.8440b4f4.chunk.css.map": "/REACTJS-CRUD-/static/css/main.8440b4f4.chunk.css.map",
+    "static/js/2.7d358a26.chunk.js.LICENSE.txt": "/REACTJS-CRUD-/static/js/2.7d358a26.chunk.js.LICENSE.txt",
+    "static/media/emoji.jpg": "/REACTJS-CRUD-/static/media/emoji.973092b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a26fab6.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7d358a26.chunk.js",
+    "static/css/main.8440b4f4.chunk.css",
+    "static/js/main.7d8f1643.chunk.js"
+  ]
+}
