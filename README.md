@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#To run this project after downloading you have to use follwing commands:- # npm install
+-->After installation complete then run
+#:- npm run server
+-->Here I had used json-server to create backend json database  which is running at port no 3010 {http://localhost:3010/users}.
+-->I had use concurrently to run react server and json server simultaneously with single command ie npm run server.
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
